@@ -47,3 +47,5 @@ yarn-error.log
 /build
 /build/*
 /logs/*
+
+/src/config/env/*
