@@ -1,4 +1,3 @@
-
 import * as Crawler from 'crawler';
 
 export default class Scrapper {
