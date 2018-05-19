@@ -3,5 +3,5 @@ import { config } from 'dotenv';
 const { env } = process;
 
 export default {
-
-}
+    mongo
+};
