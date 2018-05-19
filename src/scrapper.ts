@@ -1,8 +1,11 @@
+
+
+
 export default class Scrapper {
 
-  constructor(){}
+  constructor() {}
 
-  start(){
-    console.log('comenzando a scrapear')
+  public start() {
+    console.log('comenzando a scrapear');
   }
 }
